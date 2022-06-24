@@ -1,5 +1,7 @@
 
-// autor sravan
+// author sravan
+
+// multiplication of float numbers
 
 public class Mulfloat {
 
@@ -13,10 +15,10 @@ public class Mulfloat {
 	float b = 25.8F;
 	float c = a*b;
 
-// execution of te prog
+// execution of the prog
 
 		System.out.println("multiplication of numbers:-  "+c);
 		
 	}
 
-}
+ } 
